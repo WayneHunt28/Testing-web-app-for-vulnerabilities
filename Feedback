@@ -1,0 +1,20 @@
+Central Grader Feedback on this assessment... score 100/100
+
+Jun 22 at 1:58
+
+Hello, Wayne Hunt! Congratulations on an outstanding homework assignment! You’ve demonstrated techniques for hardening websites, explored web vulnerabilities, and developed strategies for mitigating them! 
+On the same note, you've successfully exploited a vulnerability in the first web app, and you've captured a screenshot which confirms access to /etc/hosts! 
+You've also recommended great mitigation strategies that include server-side validation, access control and least privilege control. 
+You've done a great job with this deliverable! 
+Wayne, you've successfully brute-forced your second web app! a screenshot which confirms the exploit and a successful login. 
+
+You've also recommended great mitigation strategies that include account policies such as improving password strength, password lockout and multi-factor authentication (MFA). 
+You've done a great job with this deliverable! Now, Wayne, your work on the final app exploit is awesome! You’ve confirmed that your attack was successful. 
+You've captured a screenshot that depicts the hooked browser in the navigation pane. You’ve also recommended mitigation strategies that include server-side input validation and built-in browser controls! 
+Amazing job here! 
+
+I was impressed with your detailed presentation of how you have exploited each website. This showed great understanding and execution, this was followed up by great mitigation strategies that were recommended. 
+This has been an amazing assignment to understand how to perform a web application vulnerability assessment and site hardening Wayne; keep up the good work and this smooth flow you've established! 
+
+Regards GTK
+- Central Grader
